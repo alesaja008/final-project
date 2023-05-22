@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap');
+
+body {
+    -webkit-font-smoothing: antialiased;
+    background-color: #f7f7f7;
+    color: #4a4a4a;
+    font-display: swap;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+#root {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.nav-color {
+    background-color: #152A46;
+}
+
+.App-logo {
+    width: 10%;
+}
+
+
+
+.Btn-Sign:hover {
+    background-color: #d64141;
+}
+
+
+/* ================ */
+/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .App-logo {
+        width: 35%;
+    }
+
+}
+
+.Width-desktop{
+    width: 480px;
+}

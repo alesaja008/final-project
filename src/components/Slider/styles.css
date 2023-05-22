@@ -1,0 +1,23 @@
+
+.swiper.swiper-initialized.swiper-horizontal.mySwiper {
+    height: 200px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    object-fit: cover;
+}
+
+.Slider_hero{
+    padding-top: 5px;
+    margin: 5px;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
+    left: 10%  !important;
+}
+
+section.sec-slider {
+    background-color: white;
+}
